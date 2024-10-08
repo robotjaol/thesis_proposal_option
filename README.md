@@ -8,9 +8,11 @@
 4. https://robosub.org/programs/2023/
 5. https://roboboat.org/programs/2024/
 6. https://tdpsearch.com/
-7. FSAE tdp, FRC tdp
+7. https://robosub.org/programs/2024/
+8. FSAE tdp, FRC tdp, MIT / Harvard Edu Library
+
 Keyword [Event][Team][Technical design paper]
 
-Additional [Keyword]
-how different swerve drive works https://youtu.be/D5fjnxe7pNc?si=CxenR4_E6WSFz4Dl
+### Additional [Keyword]
+- how different swerve drive works https://youtu.be/D5fjnxe7pNc?si=CxenR4_E6WSFz4Dl
 https://cad.onshape.com/documents/5802116a64b9502fc5c1e9d4/w/8993412d8a515d997492bb65/e/52fd7b073d6e0acf3020c5e5
