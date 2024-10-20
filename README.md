@@ -16,3 +16,6 @@ Keyword [Event][Team][Technical design paper]
 ### Additional [Keyword]
 - how different swerve drive works https://youtu.be/D5fjnxe7pNc?si=CxenR4_E6WSFz4Dl
 https://cad.onshape.com/documents/5802116a64b9502fc5c1e9d4/w/8993412d8a515d997492bb65/e/52fd7b073d6e0acf3020c5e5
+
+### Paper 
+- https://drive.google.com/drive/folders/1AnBzKAp17nIiqEV7z9XzL082qjb-M-F6?usp=drive_link
